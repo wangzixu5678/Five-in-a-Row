@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamemenu.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\layout\\gamemenu.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autoshow.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\layout\\autoshow.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\layout\\help.xml"
+    }
+]

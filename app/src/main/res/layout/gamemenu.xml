@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@drawable/panbg"
+              android:gravity="center_horizontal"
+        >
+
+    <TextView
+        android:text="@string/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        />
+
+    <TextView
+        android:text="ver 1.1"
+        android:id="@+id/about_ver"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:gravity="right"
+        android:layout_marginRight="40dp"
+        />
+
+    <Button
+            android:text="@string/play_game"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/menubuttonbg"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:onClick="btnPlayOnClick"
+            />
+    <Button
+            android:text="@string/play_ai"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/menubuttonbg"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:onClick="btnPlaySingleOnClick"
+            />
+    <Button
+            android:text="@string/help"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/menubuttonbg"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:onClick="btnHelpOnClick"
+            />
+    <!--<Button-->
+            <!--android:text="@string/chess_manual"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@drawable/menubuttonbg"-->
+            <!--android:layout_marginTop="30dp"-->
+            <!--android:layout_marginLeft="40dp"-->
+            <!--android:layout_marginRight="40dp"-->
+            <!--android:onClick="btnChessManualOnClick"-->
+            <!--/>-->
+</LinearLayout>

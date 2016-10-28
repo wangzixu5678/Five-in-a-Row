@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我爱五子棋</string>
+    <string name="victory">胜利</string>
+    <string name="cancel">取消</string>
+    <string name="play_again">再来一局</string>
+    <string name="player_black">黑方</string>
+    <string name="player_white">白方</string>
+    <string name="win">赢了</string>
+    <string name="lost">输了</string>
+    <string name="revert">悔棋</string>
+    <string name="play_game">双人游戏</string>
+    <string name="play_ai">挑战电脑</string>
+    <string name="help">游戏帮助</string>
+    <string name="about">关于</string>
+    <string name="help_1st_title_how_to_play">1. 如何下棋</string>
+    <string name="help_1st_answer">在棋盘中点击下棋, 让您的颜色的棋子在一条线上能够连成5个.
+        当您的棋子连成了5个,那么您获胜了.
+    </string>
+    <string name="help_2nd_title_about_game_mode">2. 游戏模式</string>
+    <string name="help_2nd_answer">游戏包含两种模式,"双人游戏"和"挑战电脑"。
+        "双人游戏"的意思是您可以和您的朋友或者加人进行比赛，争取获胜；
+        "挑战电脑"的意思是您可以进行单人游戏，对抗软件中的AI，来练习棋艺。
+    </string>
+    <string name="chess_manual">棋谱大全</string>
+    <string name="win_state_win">赢了!</string>
+    <string name="win_state_lost">输了!</string>
+    <string name="you">您</string>
+</resources>

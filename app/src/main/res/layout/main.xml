@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:gravity="center_horizontal"
+        >
+    <LinearLayout
+            android:id="@+id/topControllerBar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+        <TextView
+                android:text="@string/player_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:id="@+id/topRevertStep"
+                android:text="@string/revert"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menubuttonbg"
+                android:onClick="btnRevertStep"
+                />
+    </LinearLayout>
+    <com.vhly.games.wuziqi.game.PanView
+            android:id="@+id/gameView"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/panbg"/>
+
+    <LinearLayout
+            android:id="@+id/bottomControllerBar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+
+        <TextView
+                android:text="@string/player_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:id="@+id/bottomRevertStep"
+                android:text="@string/revert"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menubuttonbg"
+                android:onClick="btnRevertStep"
+                />
+        <!--<Button-->
+            <!--android:text="Record"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:onClick="btnRecordOnClick"-->
+            <!--/>-->
+    </LinearLayout>
+</LinearLayout>
+

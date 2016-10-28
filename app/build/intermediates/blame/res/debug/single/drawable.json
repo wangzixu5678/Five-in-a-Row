@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_rect_help_bg_white.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable\\round_rect_help_bg_white.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\panbg.9.png",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable\\panbg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_pan_bg_yellow.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable\\rect_pan_bg_yellow.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menubuttonbg.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable\\menubuttonbg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_rect_button_bg_white.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable\\round_rect_button_bg_white.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashbg.xml",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable\\splashbg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_logo.png",
+        "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable\\ic_launcher_logo.png"
+    }
+]

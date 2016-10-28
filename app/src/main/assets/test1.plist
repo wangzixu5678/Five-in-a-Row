@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundleDevelopmentRegion</key>
+        <string>zh_CN</string>
+
+        <!--OK-->
+        <key>CFBundleDisplayName</key>
+        <string>SegmentFault</string>
+
+        <key>CFBundleExecutable</key>
+        <string>${EXECUTABLE_NAME}</string>
+
+        <!--OK-->
+        <key>CFBundleIdentifier</key>
+        <string>com.segmentfault.ios</string>
+
+        <!--OK-->
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+
+        <!--OK-->
+        <key>CFBundleName</key>
+        <string>${PRODUCT_NAME}</string>
+
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+
+        <key>CFBundleShortVersionString</key>
+        <string>2.0.0</string>
+
+        <!--OK-->
+        <key>CFBundleSignature</key>
+        <string>????</string>
+
+        <key>CFBundleVersion</key>
+        <string>2.0.0</string>
+
+        <key>LSApplicationCategoryType</key>
+        <string></string>
+
+        <!--OK-->
+        <key>LSRequiresIPhoneOS</key>
+        <true/>
+
+        <!--OK-->
+        <key>UIPrerenderedIcon</key>
+        <true/>
+
+        <!--OK-->
+        <key>UIRequiredDeviceCapabilities</key>
+        <array>
+            <string>armv7</string>
+        </array>
+
+        <key>UIStatusBarStyle</key>
+        <string>UIStatusBarStyleBlackOpaque</string>
+
+        <key>UIStatusBarTintParameters</key>
+        <dict>
+            <key>UINavigationBar</key>
+            <dict>
+                <key>Style</key>
+                <string>UIBarStyleDefault</string>
+                <key>Translucent</key>
+                <false/>
+            </dict>
+        </dict>
+
+        <key>UISupportedInterfaceOrientations</key>
+        <array>
+            <string>UIInterfaceOrientationPortrait</string>
+        </array>
+
+    </dict>
+</plist>
+

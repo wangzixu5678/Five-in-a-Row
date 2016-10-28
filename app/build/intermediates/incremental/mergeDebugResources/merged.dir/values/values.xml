@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <declare-styleable name="WuZiQiPanView"><attr format="dimension" name="cellWidth"/><attr format="dimension" name="cellHeight"/></declare-styleable>
+    <string name="about">About</string>
+    <string name="app_name">Gobang</string>
+    <string name="cancel">Cancel</string>
+    <string name="chess_manual">Chess manual</string>
+    <string name="help">Game help</string>
+    <string name="help_1st_answer">Locate your chessman in chessboard, let your chessman in a line have five. When your
+        chessman in a line have five, you win.
+    </string>
+    <string name="help_1st_title_how_to_play">1. How to Play</string>
+    <string name="help_2nd_answer">Game include two game modes, "Play with other" and "Play with AI".
+        "Play with other" means you play this game with your friend or children, two player play to win;
+        "Play with AI" means you play this game with a AI player, you can play this game single.
+        In game menu, choice a mode to play.
+    </string>
+    <string name="help_2nd_title_about_game_mode">2. About game mode</string>
+    <string name="lost">Lost</string>
+    <string name="play_again">Play Again</string>
+    <string name="play_ai">Play with AI</string>
+    <string name="play_game">Play with other</string>
+    <string name="player_black">Black</string>
+    <string name="player_white">White</string>
+    <string name="revert">Revert</string>
+    <string name="victory">Victory</string>
+    <string name="win">Win</string>
+    <string name="win_state_lost">lost!</string>
+    <string name="win_state_win">win!</string>
+    <string name="you">You</string>
+</resources>

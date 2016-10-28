@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<steps title="" desc="">
+    <step panx="8" pany="10" turn="0" desc=""/>
+    <step panx="8" pany="9" turn="1" desc=""/>
+    <step panx="9" pany="9" turn="0" desc=""/>
+    <step panx="7" pany="11" turn="1" desc=""/>
+    <step panx="9" pany="10" turn="0" desc=""/>
+    <step panx="7" pany="10" turn="1" desc=""/>
+    <step panx="9" pany="11" turn="0" desc=""/>
+    <step panx="9" pany="12" turn="1" desc=""/>
+    <step panx="7" pany="9" turn="0" desc=""/>
+    <step panx="10" pany="12" turn="1" desc=""/>
+    <step panx="9" pany="8" turn="0" desc=""/>
+    <step panx="9" pany="7" turn="1" desc=""/>
+    <step panx="6" pany="8" turn="0" desc=""/>
+    <step panx="5" pany="7" turn="1" desc=""/>
+    <step panx="8" pany="8" turn="0" desc=""/>
+    <step panx="7" pany="8" turn="1" desc=""/>
+    <step panx="10" pany="10" turn="0" desc=""/>
+    <step panx="11" pany="11" turn="1" desc=""/>
+</steps>

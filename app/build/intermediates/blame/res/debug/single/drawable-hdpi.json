@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_logo.png",
+        "source": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_logo.png"
+    },
+    {
         "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_logo.png",
         "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_logo.png"
     }

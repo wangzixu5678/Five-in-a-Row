@@ -4,6 +4,14 @@
         "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\layout\\gamemenu.xml"
     },
     {
+        "merged": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
         "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autoshow.xml",
         "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\layout\\autoshow.xml"
     },
@@ -14,5 +22,13 @@
     {
         "merged": "F:\\AndroidProgram\\wzq1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
         "source": "F:\\AndroidProgram\\wzq1\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\build\\intermediates\\res\\merged\\debug\\layout\\autoshow.xml",
+        "source": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\src\\main\\res\\layout\\autoshow.xml"
+    },
+    {
+        "merged": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gamemenu.xml",
+        "source": "D:\\MyAndroid\\MyProgram\\Five-in-a-Row\\app\\src\\main\\res\\layout\\gamemenu.xml"
     }
 ]
